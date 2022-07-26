@@ -55,20 +55,3 @@ void graphics() {
 
 	return 0; 
 }
-
- /*
- Settings
-
- Change Flexibility
- Change Gravity
- Change Dampening
-
- Generate Mesh
-
- Disable Points
- Zero Velocity
- Freeze Simulation
- Change FrameRate  
-
- Exit Button
- */
